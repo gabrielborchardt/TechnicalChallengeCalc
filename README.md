@@ -5,11 +5,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tecnologias](#Tecnologias)
-   * [Biblioteca](#biblioteca)
-   * [Testes](#testes)
-   * [Console](#console)
-   * [API](#api)
+   * [Tecnologias](#-tecnologias)
+   * [Biblioteca](#-biblioteca)
+   * [Testes](#-testes)
+   * [Console](#-console)
+   * [API](#-api)
    * [Build](#build)
 <!--te-->
 
@@ -26,10 +26,10 @@ Projeto Source/Test.Calculo realiza os testes diretamente na biblioteca, validan
 - Fact: DeveRetornarNumerosDivisores
 - Fact: DeveRetornarNumerosPrimos
 
-## ⌨️ Console
+## ⌨ Console
 Projeto Source/Comando.Calculo, console para informar o número a ser calculado.
 
-## ⚙️ API
+## ⚙ API
 Projeto Source/Api.Calculo é o serviço criado para utilização por diversos sistemas.
 
 ### Pré-requisitos
