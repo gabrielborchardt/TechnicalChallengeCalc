@@ -18,18 +18,18 @@ Tabela de conteúdos
 - [xUnit](https://xunit.net/)
 - [.NET CORE 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
 
-## Biblioteca
+## 📚 Biblioteca
 Projeto Source/Base.Calculo onde se encontra o cálculo realizado para retorno dos divisores e divisores primos que compõem o número informado.
 
-## Testes
+## 🧪 Testes
 Projeto Source/Test.Calculo realiza os testes diretamente na biblioteca, validando o calculo realizado.
 - Fact: DeveRetornarNumerosDivisores
 - Fact: DeveRetornarNumerosPrimos
 
-## Console
+## ⌨️ Console
 Projeto Source/Comando.Calculo, console para informar o número a ser calculado.
 
-## API
+## ⚙️ API
 Projeto Source/Api.Calculo é o serviço criado para utilização por diversos sistemas.
 
 ### Pré-requisitos
