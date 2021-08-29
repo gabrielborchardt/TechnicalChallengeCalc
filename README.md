@@ -14,28 +14,22 @@ Tabela de conteúdos
 <!--te-->
 
 ## 🛠 Tecnologias
-=================
-
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [xUnit](https://xunit.net/)
 - [.NET CORE 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
 
 ## Biblioteca
-=================
 Projeto Source/Base.Calculo onde se encontra o cálculo realizado para retorno dos divisores e divisores primos que compõem o número informado.
 
 ## Testes
-=================
 Projeto Source/Test.Calculo realiza os testes diretamente na biblioteca, validando o calculo realizado.
-- DeveRetornarNumerosDivisores
-- DeveRetornarNumerosPrimos
+- Fact: DeveRetornarNumerosDivisores
+- Fact: DeveRetornarNumerosPrimos
 
 ## Console
-=================
 Projeto Source/Comando.Calculo, console para informar o número a ser calculado.
 
 ## API
-=================
 Projeto Source/Api.Calculo é o serviço criado para utilização por diversos sistemas.
 
 ### Pré-requisitos
@@ -67,7 +61,6 @@ Status: 500 InternalServerError
 		"Details": "string"
 	}
 	
-## Build
-=================	
+## Build	
 - Comando.Calculo: Console Application para teste via aplicação local.
 - Api.Calculo: API REST disponibilizando um serviço para consumo externo.
