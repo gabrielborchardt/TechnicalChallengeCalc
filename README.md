@@ -63,4 +63,4 @@ Status: 500 InternalServerError
 	
 ## Build	
 - Comando.Calculo: Console Application para teste local.
-- Api.Calculo: API REST disponibilizando um serviço para consumo externo. <a href="http://52.249.193.55/Api.Calculo/index.html" target="_blank">URL para teste</a>
+- Api.Calculo: API REST disponibilizando um serviço para consumo externo. URL para teste: http://52.249.193.55/Api.Calculo/index.html
